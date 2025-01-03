@@ -60,6 +60,5 @@ The dataset consists of five galaxy types:
 ## Results
 The CNN achieved an impressive accuracy of **89.4%**, demonstrating its effectiveness in classifying galaxy images into their respective categories.
 
----
-For any questions or further information, feel free to reach out!
+
 
